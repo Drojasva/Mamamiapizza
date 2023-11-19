@@ -1,0 +1,33 @@
+.header {
+  background-image: url(https://images7.alphacoders.com/858/858236.jpg);
+  background-size: cover;
+  height: 200px;
+}
+
+Nav {
+  background-color: #18a2b8;
+}
+
+a {
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(207, 207, 207);
+}
+
+.active {
+  font-weight: 600;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: rgb(207, 207, 207);
+}
+.btn-primary {
+  background-color: #18a2b8;
+  border-color: #18a2b8;
+}
+.btn-primary:hover, .btn-primary:active{
+  background-color: #178fa1;
+  border-color: #178fa1;
+}
